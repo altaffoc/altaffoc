@@ -8,15 +8,9 @@
   <img src="https://streak-stats.demolab.com?user=altaffoc&theme=tokyonight_duo&hide_border=true" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=altaffoc&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=altaffoc&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
+</p><p align="right">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=altaffoc&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
