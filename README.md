@@ -5,9 +5,13 @@
 <h3 align="center"><p align="center"> <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" /> <img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js" /> <img src="https://img.shields.io/badge/-Puppeteer-05122A?style=flat&logo=puppeteer" /> <img src="https://img.shields.io/badge/-Selenium-05122A?style=flat&logo=selenium" /> <img src="https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux" /> </p> <h3 align="center"></h3>
 
 <p align="center">
+  <img src="https://streak-stats.demolab.com?user=altaffoc&theme=tokyonight_duo&hide_border=true" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=altaffoc&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=altaffoc&theme=tokyonight_duo&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/altaffoc/metrics/master/github-metrics.svg" />
 </p>
