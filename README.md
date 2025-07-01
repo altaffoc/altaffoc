@@ -13,5 +13,5 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/altaffoc/metrics/master/github-metrics.svg" />
+  <img src="https://github-profile-trophy.vercel.app/?username=altaffoc&theme=onestar&no-frame=true&row=1" />
 </p>
