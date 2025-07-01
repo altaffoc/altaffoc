@@ -1,3 +1,3 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/altaffoc/altaffoc/assets/altaffoc.svg" width="400" />
-</h1>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/altaffoc/altaffoc/assets/altaffoc.svg" width="400" />
+</p>
