@@ -13,5 +13,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=altaffoc&theme=onestar&no-frame=true&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=altaffoc&theme=onestar&no-frame=true&row=1&margin-w=15" />
 </p>
+
