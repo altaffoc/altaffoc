@@ -13,6 +13,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=altaffoc&theme=onestar&no-frame=true&row=1&margin-w=15" />
+  <img src="https://github-readme-stats.vercel.app/api?username=altaffoc&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=altaffoc&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
 
